@@ -40,3 +40,13 @@ Host the project using GitHub Pages, Netlify, or any static site hosting service
 Contribution
 
 Feel free to fork the repo, submit issues, or contribute via pull requests.
+
+
+
+
+Screenshot:
+
+
+
+![Screenshot (716)](https://github.com/user-attachments/assets/6661aca9-8981-424a-8b2b-4a3c82b086ed)
+
